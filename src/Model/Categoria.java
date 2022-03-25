@@ -66,15 +66,4 @@ public class Categoria {
 
     }
 
-    public static boolean Servidor() throws FileNotFoundException {
-
-        File file = new File(System.getProperty("user.dir") + "\\dist\\rede.txt");
-
-        FileReader fr = new FileReader(file);
-        BufferedReader bf = new BufferedReader(fr);
-        
-        
-        return true;
-    }
-
 }
