@@ -16,6 +16,7 @@ public class Estoque {
         String linha;
         String banco = "";
         String senha = "";
+        String ad = "";
 
         File file = new File(System.getProperty("user.dir") + "\\rede.txt");
 
