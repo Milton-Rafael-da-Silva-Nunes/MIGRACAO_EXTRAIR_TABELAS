@@ -1,5 +1,5 @@
-import controler.Diretorio;
-import janelas_controler.TelaIniciandoSistema;
+import com.controler.Diretorio;
+import com.janelas.controler.TelaIniciandoSistema;
 import java.io.IOException;
 
 public class Main {
